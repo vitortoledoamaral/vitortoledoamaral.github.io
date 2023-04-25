@@ -1,6 +1,7 @@
 body {
     background-color: rgb(54, 11, 18);
     color: blanchedalmond;
+    font-family: monospace;
 }
 #nome {
     font-family: 'Courier New', Courier, monospace;
@@ -20,4 +21,6 @@ body {
 .versatil {
     font-style: italic;
 }
- 
+.habilidades {
+    font-size: 14px;
+}
