@@ -26,4 +26,48 @@ body {
 }
 .fotominha {
     border-radius: 50%;
+    background-color: #5e3f26;
+    border: 7px solid #4e3f30;
+    padding: 15px;
+    position: relative;
+    margin: 4px 0;
+    box-shadow: 5px 5px 17px 9px #000000;
+    
 }
+
+.bloco-nome {
+    /* border: 2px solid blue; */
+    text-align: center;
+}
+.bloco-foto {
+    /* border: 2px solid green; */
+    margin: 10px 10px ;
+    float: left;
+    margin-top: 50px;
+    
+}
+.bloco-descricao {
+    /* border: 2px solid rgb(255, 0, 191); */
+    width: 500px;
+    float: right;
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 10px;
+    
+
+    
+}
+.nome-descr {
+    /* border: 2px solid white; */
+    display: inline-block;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+   
+   
+    
+    
+    
+}
+
+    
