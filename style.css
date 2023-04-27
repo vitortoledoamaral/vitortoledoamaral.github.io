@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(54, 11, 18);
+    color: blanchedalmond;
+    font-family: monospace;
+}
+#nome {
+    font-family: 'Courier New', Courier, monospace;
+}
+#sobre-mim {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.descricao {
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.resido {
+    font-style: italic;
+}
+.responsavel {
+    font-style: italic;
+}
+.versatil {
+    font-style: italic;
+}
+.habilidades {
+    font-size: 14px;
+}
+.fotominha {
+    border-radius: 50%;
+}
